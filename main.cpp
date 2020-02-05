@@ -34,6 +34,7 @@ int main() {
      test("maze.txt", 4, 4);
      test("maze1.txt", 2, 18);
      test("maze2.txt", 2, 8);
+     test("maze3.txt", 2, 8);
     cout << "Done!" << std::endl;
     return 0;
 }
